@@ -1,7 +1,7 @@
 ###  Download GitHub repo
 
 ```
-git clone (https://github.com/shaikhsalman0706/cryptocurrency.git
+git clone https://github.com/shaikhsalman0706/cryptocurrency.git
 ```
 
 ###  Pip install libraries
