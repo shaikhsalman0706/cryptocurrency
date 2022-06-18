@@ -1,7 +1,7 @@
 ###  Download GitHub repo
 
 ```
-git clone https://github.com/dataprofessor/binance
+[git clone https://github.com/dataprofessor/binance](https://github.com/shaikhsalman0706/cryptocurrency.git)
 ```
 
 ###  Pip install libraries
